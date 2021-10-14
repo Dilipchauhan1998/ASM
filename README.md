@@ -1,3 +1,5 @@
+ __ASM: Automatic Stamping Machine__
+ 
  # Task
   Make A machine which can automatically stamp the pages of same kind
  
